@@ -1,9 +1,5 @@
 0;^https?://forum\.overclockers\.ua/.*sid=
 0;^https?://[^/]*\.com\.ua/
-0;^https?://[^/]*symbol\.ua/
-0;^https?://[^/]*itbox\.ua/
-0;^https?://[^/]*itlook\.ua/
-0;^https?://[^/]*florium\.ua/
 1;^https?://zakon\.rada\.gov\.ua/
 1;^https?://[^/]*\.gov\.ua/
 1;.
