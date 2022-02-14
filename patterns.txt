@@ -1,3 +1,4 @@
+0;^https?://winestyle%.com%.ua/
 0.2;^https?://zakon\.rada\.gov\.ua/
 1;^https?://[^/]*\.gov\.ua/
 1;.
