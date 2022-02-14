@@ -2,7 +2,7 @@
 0;^https?://[^/]*\.com\.ua/
 0.2;^https?://[^/]*inau\.ua/
 0.3;^https?://[^/]*data\.gov\.ua/
-1;^https?://zakon\.rada\.gov\.ua/
+0.2;^https?://zakon\.rada\.gov\.ua/
 1;^https?://[^/]*\.gov\.ua/
 1;^https?://[^/]*\.edu\.ua/
 1;^https?://[^/]*\.net\.ua/
