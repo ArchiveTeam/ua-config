@@ -1,12 +1,12 @@
 0;^https?://forum\.overclockers\.ua/.*sid=
 0;^https?://[^/]*\.com\.ua/
-0.1;^https?://[^/]*inau\.ua/
-0.05;^https?://[^/]*iqenergy\.org\.ua/
+0.3;^https?://[^/]*inau\.ua/
+0;^https?://[^/]*iqenergy\.org\.ua/
 0.2;^https?://irbis-nbuv\.gov\.ua/cgi-bin/irbis_nbuv/cgiirbis_64\.exe\?
-0.3;^https?://[^/]*data\.gov\.ua/
-0.2;^https?://zakon\.rada\.gov\.ua/
+#0.3;^https?://[^/]*data\.gov\.ua/
+#0.2;^https?://zakon\.rada\.gov\.ua/
 0.1;^https?://[^/]*krmisto\.gov\.ua/
-0.2;^https?://[^/]*spar\.gov\.ua/
+0.4;^https?://[^/]*spar\.gov\.ua/
 1;^https?://[^/]*\.gov\.ua/
 1;^https?://[^/]*\.edu\.ua/
 1;^https?://[^/]*\.net\.ua/
