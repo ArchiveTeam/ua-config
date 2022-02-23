@@ -1,5 +1,5 @@
 0;^https?://[^/]*\.com\.ua/
-0.3;^https?://[^/]*inau\.ua/
+0.1;^https?://[^/]*inau\.ua/
 0;^https?://[^/]*iqenergy\.org\.ua/
 0;^https?://irbis-nbuv\.gov\.ua/cgi-bin/irbis_nbuv/cgiirbis_64\.exe\?
 #0.3;^https?://[^/]*data\.gov\.ua/
